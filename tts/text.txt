@@ -1,0 +1,13 @@
+电梯系统报警
+监控系统报警
+背景音乐系统报警
+报警器系统报警
+BA系统系统报警
+
+gtts-cli '你好' --lang zh --output 你好.mp3
+
+gtts-cli '电梯系统报警' --lang zh --output 电梯系统报警.mp3;
+gtts-cli '监控系统报警' --lang zh --output 监控系统报警.mp3;
+gtts-cli '背景音乐系统报警' --lang zh --output 背景音乐系统报警.mp3;
+gtts-cli '报警器系统报警' --lang zh --output 报警器系统报警.mp3;
+gtts-cli 'BA系统报警' --lang zh --output BA系统报警.mp3;
